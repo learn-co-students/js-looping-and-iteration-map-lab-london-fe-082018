@@ -10,3 +10,5 @@ function nameToAttributes(drivers){
 function attributesToPhase(drivers){
   
 }
+
+// return drivers.map (driver => '{"firstname"': ' + driver.split(" ") [0] + 'secondname: ' driver.split (" ")[1] +"}"')
